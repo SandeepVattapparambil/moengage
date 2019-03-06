@@ -116,5 +116,21 @@
     "presets": [
       "react-app"
     ]
-  }
+  },
+  "description": "moengage code assignment",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SandeepVattapparambil/moengage.git"
+  },
+  "keywords": [
+    "MoEngage"
+  ],
+  "author": "Sandeep Vattapparambil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SandeepVattapparambil/moengage/issues"
+  },
+  "homepage": "https://github.com/SandeepVattapparambil/moengage#readme"
 }
