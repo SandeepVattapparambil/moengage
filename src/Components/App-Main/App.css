@@ -1,5 +1,5 @@
 .campaign-comment-container {
-  background: #e3f2fd;
+  background: #ebf1f5;
   padding: 0px !important;
 }
 
@@ -12,7 +12,9 @@ div.main {
   border-bottom: 1px solid rgb(226, 226, 226);
   padding: 20px !important;
 }
-
+.selected{
+  background: #ebf1f5;
+}
 .header {
   border-bottom: 1px solid rgb(226, 226, 226);
 }
@@ -25,7 +27,9 @@ div.main {
   margin-left: 0px !important;
   margin-right: 0px !important;
 }
-
+.number-holder{
+  padding-top: 10px !important;
+}
 .number-badge {
   padding: 5px 10px 5px 10px;
   background: #2196f3;
