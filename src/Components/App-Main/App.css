@@ -1,0 +1,46 @@
+.campaign-comment-container {
+  background: #e3f2fd;
+  padding: 0px !important;
+}
+
+.campaign-list-container {
+  padding: 0px !important;
+  border-right: 1px solid rgb(226, 226, 226);
+}
+
+div.main {
+  border-bottom: 1px solid rgb(226, 226, 226);
+  padding: 20px !important;
+}
+
+.header {
+  border-bottom: 1px solid rgb(226, 226, 226);
+}
+
+.list {
+  padding: 0px !important;
+}
+
+.list>.row {
+  margin-left: 0px !important;
+  margin-right: 0px !important;
+}
+
+.number-badge {
+  padding: 5px 10px 5px 10px;
+  background: #2196f3;
+  color: white;
+  border-radius: 22px;
+}
+
+.create-new-campaign {
+  margin-left: 50px;
+}
+
+i.center-icon{
+  margin-left: 22px;
+}
+span.sub-text{
+  font-size: 14px;
+  font-weight: 500;
+}
